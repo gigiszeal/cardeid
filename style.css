@@ -3,7 +3,7 @@
 
 body {
 	font-family: 'Indie Flower', cursive !important;
-  background: #B0E0E6; /*CAPE HONEY*/
+  background: #B0E0E6;
 	margin: 0px;
 	padding: 0px;
 }
@@ -18,12 +18,12 @@ h4 {
 	font-family: 'Amatic SC', cursive !important;
 }
 
-.color1{color:#DDA0DD}/*MOUNTAIN MEADOW*/
-.color2{color:#BC8F8F/*TALL POPPY*/}
+.color1{color:#DDA0DD}
+.color2{color:#BC8F8F}
 
 
 .card {
-	color:#FFDAB9; /*SHERPA BLUE*/
+	color:#FFDAB9;
 	position: absolute;
 	top: 50%;
 	left: 50%;
